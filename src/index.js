@@ -22,11 +22,15 @@ function addContentToDom(info) {
   })
 }
 
+function hideElement(el) {
+  // el.remove() 
+  el.style.display = 'none' 
+}
+
 function displayBookInfo(event) {
   li = event.target
-  li.parentNode.remove() 
-
-  li.parentNode.style.display = 'none' 
+  hideElement(li.parentNode)
+  
   const foundBook = arr.find(book => book.id === parseInt(li.id))
 
   const bookDiv = document.querySelector('.bookInfo')
