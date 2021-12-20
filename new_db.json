@@ -1,0 +1,39 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "I'm Sticking with You",
+      "summary": "Bear and Squirrel are best friends. Wherever Squirrel goes, Bear follows. Bear vows to stick with Squirrel whether he’s grumpy, or silly, or mad―which is put to the test when Bear sinks Squirrel’s canoe. And catapults him from the seesaw. And breaks his favorite mug. Finally, Squirrel has had enough. He tells Bear he needs his space―only to realize he has much more fun with his best friend around. Funny and poignant in equal measure, I'm Sticking with You shows that friendship always finds a way.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41MVUT5Z15L._SX364_BO1,204,203,200_.jpg",
+      "favorite": false
+    },
+    {
+      "id": 2,
+      "title": "Grumpy Monkey",
+      "summary": "The hilarious #1 New York Times bestselling picture book about a chimpanzee in a very bad mood--perfect for young children learning how to deal with confusing feelings, especially during the transition back to school. Jim the chimpanzee is in a terrible mood for no good reason. His friends can't understand it--how can he be in a bad mood when it's SUCH a beautiful day? They have lots of suggestions for how to make him feel better. But Jim can't take all the advice...and has a BIT of a meltdown. Could it be that he just needs a day to feel grumpy? Suzanne and Max Lang bring hilarity and levity to this very important lesson on emotional literacy, demonstrating to kids that they are allowed to feel their feelings.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51KfSQWv8-L._SY498_BO1,204,203,200_.jpg",
+      "favorite": false
+    },
+    {
+      "id": 3,
+      "title": "Outside In",
+      "summary": "From the New York Times best-selling author behind The Quiet Book comes a mindful contemplation on the many ways nature affects our everyday lives, even when we're stuck inside. Five starred reviews! Perfect for fans of Joyce Sidman and Julie Fogliano, Outside In reminds emerging readers of the ways nature creates and touches our lives in homes, apartments, and cars, and is the perfect homeschooling tool to reflect on the world's connectedness Outside is waiting, the most patient playmate of all. The most generous friend. The most miraculous inventor. This thought-provoking picture book poetically underscores our powerful and enduring connection with nature, not so easily obscured by lives spent indoors. Rhythmic, powerful language shows us how our world is made and the many ways Outside comes in to help and heal us, and reminds us that we are all part of a much greater universe. Emotive illustrations evoke the beauty, simplicity, and wonder that await us all . . . outside.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51QmZi+9uML._SY425_BO1,204,203,200_.jpg",
+      "favorite": false
+    },
+    {
+      "id": 4,
+      "title": "I Want My Hat Back ",
+      "summary": "A New York Times Best Illustrated Children's Book of 2011! A picture-book delight by a rising talent tells a cumulative tale with a mischievous twist. The bear’s hat is gone, and he wants it back. Patiently and politely, he asks the animals he comes across, one by one, whether they have seen it. Each animal says no, some more elaborately than others. But just as the bear begins to despond, a deer comes by and asks a simple question that sparks the bear’s memory and renews his search with a vengeance. Told completely in dialogue, this delicious take on the classic repetitive tale plays out in sly illustrations laced with visual humor — and winks at the reader with a wry irreverence that will have kids of all ages thrilled to be in on the joke.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41MhKkisOEL._SX358_BO1,204,203,200_.jpg",
+      "favorite": false
+    },
+    {
+      "id": 5,
+      "title": "The Boy with Big, Big Feelings (The Big, Big)",
+      "summary": "Meet a boy with feelings so big that they glow from his cheeks, spill out of his eyes, and jump up and down on his chest. When a loud truck drives by, he cries. When he hears a joke, he bursts with joy. When his loved ones are having a hard day, he feels their emotions as if they were his own. The boy tries to cope by stuffing down his feelings, but with a little help and artistic inspiration, the boy realizes his feelings are something to be celebrated. Written by debut picture book author Britney Winn Lee and boldly illustrated by Jacob Souva, The Boy with Big, Big Feelings is relatable for any child, but especially for children experiencing anxiety and extreme emotions, or who have been diagnosed with autism or as a Highly Sensitive Person.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51ESaLpyEqL._SX423_BO1,204,203,200_.jpg",
+      "favorite": false
+    }
+  ]
+}
