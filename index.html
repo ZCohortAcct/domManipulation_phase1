@@ -14,8 +14,19 @@
     <div class="bookInfo">
       <!-- add book info here -->
     </div>
+   
+    <br/> <button id="add-book-btn">Add a Book</button>
 
-    <div id="bookForm">
+    <div id="form" style='display: none'>
+      <h2>Add New Book</h2>
+        <form id="book-form">
+          <label for="name">Title</label>
+          <input type="text" id="title" name="title" /><br/>
+
+          <label for="summary">Summary</label>
+          <input type="text" id="smmary" name="summary" /><br/>
+          
+        </form> 
     </div>
     <script src="src/index.js"></script>
   </body>
